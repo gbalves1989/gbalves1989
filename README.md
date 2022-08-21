@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Brondani Alves</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gbalves1989&label=Profile%20views&color=0e75b6&style=flat" alt="gbalves1989" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gbalves1989" alt="gbalves1989" /></a> </p>
-
 - 💬 Ask me about **NodeJS, ReactJS, ReactNative**
 
 - 📫 How to reach me **gbalves1989@gmail.com**
