@@ -7,7 +7,7 @@
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gbalves1989&show_icons=true&locale=en&theme=dracula" alt="gbalves1989" />
-  <img align="center" src="https://s.aficionados.com.br/imagens/giphy-91.gif" alt="yoda" />
+  <img align="right" src="https://s.aficionados.com.br/imagens/giphy-91.gif" alt="yoda" width="300" height="250" style="margin-left: 20px" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
