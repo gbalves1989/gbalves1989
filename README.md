@@ -5,10 +5,6 @@
 
 - 📫 How to reach me **gbalves1989@gmail.com**
 
-<p>&nbsp;
-  <img align="right" src="https://s.aficionados.com.br/imagens/giphy-91.gif" alt="yoda" width="300" height="250" style="margin-left: 20px" />
-</p>
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
