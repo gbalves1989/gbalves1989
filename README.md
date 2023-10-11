@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Brondani Alves</h1>
 <h3 align="center">Software Developer</h3>
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Javascript and Typescript**
 
 - 📫 How to reach me **gbalves1989@gmail.com**
 
