@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Gabriel Brondani Alves</h1>
-<h3 align="center">Software Developer</h3>
+<h1 align="center">Olá 👋, sou Gabriel Brondani Alves</h1>
+<h3 align="center">Desenvolvedor de Software</h3>
 
-- 📫 How to reach me **gbalves1989@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+- 📫 Meu E-mail: **gbalves1989@gmail.com**
+- WhatsApp: (54) 99996-9889
+<h3 align="left">Conecte em minhas redes sociais:</h3>
 
 <p align="left">
   <a href="https://linkedin.com/in/gbalves1989" target="blank">
