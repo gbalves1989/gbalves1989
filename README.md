@@ -72,8 +72,3 @@ Entre em contato comigo:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gbalves1989)
 [![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbalves1989@gmail.com)
 
----
-
-## 💡 Frase que me representa
-
-> Código bem escrito não resolve apenas problemas de hoje, mas facilita as soluções de amanhã.
