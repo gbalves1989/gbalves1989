@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Gabriel B. Alves 👋
 
 Desenvolvedor Full Stack com foco em soluções modernas, escaláveis e bem estruturadas, utilizando principalmente **.NET/C#**, **Node.js** e **React**.
 
@@ -61,29 +61,6 @@ Tenho experiência no desenvolvimento de APIs, sistemas web, integrações, apli
 - Boas práticas com Git
 - Clean Code e SOLID
 - Deploy e configuração de ambientes
-
----
-
-## 📂 Projetos em destaque
-
-### 🔹 [Nome do Projeto 1](link-do-repositorio)
-Descrição breve do projeto, tecnologias utilizadas e principal objetivo.
-
-**Tecnologias:** .NET, C#, SQL Server, React
-
----
-
-### 🔹 [Nome do Projeto 2](link-do-repositorio)
-Descrição breve do projeto, funcionalidades principais e problema resolvido.
-
-**Tecnologias:** Node.js, Express, MongoDB, React
-
----
-
-### 🔹 [Nome do Projeto 3](link-do-repositorio)
-Descrição breve do projeto e diferenciais técnicos.
-
-**Tecnologias:** ASP.NET Core, Entity Framework, PostgreSQL
 
 ---
 
