@@ -64,14 +64,6 @@ Tenho experiência no desenvolvimento de APIs, sistemas web, integrações, apli
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula)
-
----
-
 ## 📫 Contato
 
 Entre em contato comigo:
