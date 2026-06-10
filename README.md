@@ -9,8 +9,8 @@ Tenho experiência no desenvolvimento de APIs, sistemas web, integrações, apli
 ## 🚀 Sobre mim
 
 - 💻 Desenvolvedor Full Stack
-- ⚙️ Experiência com back-end em **.NET / C#** e **Node.js**
-- 🎨 Desenvolvimento front-end com **React**
+- ⚙️ Experiência com back-end em **Spring Boot | Java** e **Node.js**
+- 🎨 Desenvolvimento front-end com **Angular**
 - 🗄️ Conhecimento em bancos de dados relacionais e não relacionais
 - 🔐 Boas práticas com autenticação, autorização e segurança em APIs
 - 📦 Experiência com versionamento usando **Git e GitHub**
