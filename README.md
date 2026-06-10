@@ -1,6 +1,6 @@
 # Olá, eu sou Gabriel B. Alves 👋
 
-Desenvolvedor Full Stack com foco em soluções modernas, escaláveis e bem estruturadas, utilizando principalmente **.NET/C#**, **Node.js** e **React**.
+Desenvolvedor Full Stack com foco em soluções modernas, escaláveis e bem estruturadas, utilizando principalmente **Spring Boot / Java**, **Node.js** e **Angular**.
 
 Tenho experiência no desenvolvimento de APIs, sistemas web, integrações, aplicações corporativas e interfaces responsivas, sempre buscando escrever código limpo, performático e de fácil manutenção.
 
