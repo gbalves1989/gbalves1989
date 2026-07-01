@@ -9,15 +9,15 @@ Atuo com foco em qualidade, organização, escalabilidade e entrega de valor, ap
 ---
 
 ## 🚀 Sobre mim
-💻 Desenvolvedor Back-end Sênior
-⚙️ Forte experiência com .NET | C# | ASP.NET Core
-🧱 Desenvolvimento de APIs RESTful, serviços e aplicações corporativas
-🗄️ Experiência com SQL Server, PostgreSQL e bancos NoSQL
-🔐 Boas práticas com autenticação, autorização, JWT e segurança em APIs
-🧩 Integração entre sistemas, serviços externos e bancos de dados
-📦 Experiência com versionamento usando Git e GitHub
-🐳 Conhecimento em Docker, configuração de ambientes e deploy
-📚 Sempre estudando arquitetura de software, performance, cloud, testes e boas práticas
+- 💻 Desenvolvedor Back-end Sênior
+- ⚙️ Forte experiência com .NET | C# | ASP.NET Core
+- 🧱 Desenvolvimento de APIs RESTful, serviços e aplicações corporativas
+- 🗄️ Experiência com SQL Server, PostgreSQL e bancos NoSQL
+- 🔐 Boas práticas com autenticação, autorização, JWT e segurança em APIs
+- 🧩 Integração entre sistemas, serviços externos e bancos de dados
+- 📦 Experiência com versionamento usando Git e GitHub
+- 🐳 Conhecimento em Docker, configuração de ambientes e deploy
+- 📚 Sempre estudando arquitetura de software, performance, cloud, testes e boas práticas
 
 ---
 
@@ -60,23 +60,23 @@ Atuo com foco em qualidade, organização, escalabilidade e entrega de valor, ap
 ---
 
 ## 📌 Principais competências
-Desenvolvimento de APIs RESTful com ASP.NET Core
-Desenvolvimento back-end com C# e .NET
-Arquitetura em camadas
-Clean Architecture
-Domain-Driven Design
-Entity Framework Core
-SQL Server e modelagem de dados
-Migrations e versionamento de banco de dados
-Autenticação e autorização com JWT
-Segurança em APIs
-Integração com serviços externos
-Validações, regras de negócio e tratamento de erros
-Documentação de APIs com Swagger/OpenAPI
-Docker e configuração de ambientes
-Boas práticas com Git e GitHub
-Clean Code, SOLID e boas práticas de arquitetura
-Deploy, manutenção e evolução de aplicações
+- Desenvolvimento de APIs RESTful com ASP.NET Core
+- Desenvolvimento back-end com C# e .NET
+- Arquitetura em camadas
+- Clean Architecture
+- Domain-Driven Design
+- Entity Framework Core
+- SQL Server e modelagem de dados
+- Migrations e versionamento de banco de dados
+- Autenticação e autorização com JWT
+- Segurança em APIs
+- Integração com serviços externos
+- Validações, regras de negócio e tratamento de erros
+- Documentação de APIs com Swagger/OpenAPI
+- Docker e configuração de ambientes
+- Boas práticas com Git e GitHub
+- Clean Code, SOLID e boas práticas de arquitetura
+- Deploy, manutenção e evolução de aplicações
 
 ---
 
